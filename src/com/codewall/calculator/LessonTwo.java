@@ -103,7 +103,7 @@ public class LessonTwo {
         }
          */
         /**
-         * syntax for switch caase
+         * syntax for switch case
          * switch(){
          * case value;
          * implementation;
